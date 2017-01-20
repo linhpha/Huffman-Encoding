@@ -1,4 +1,4 @@
- CSC 207 (Fall 2016) Homework 8: Grin Compression
+Huffman Encoding
  
  Member: Linh Pham and Benjamin Wong 
  
